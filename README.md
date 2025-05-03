@@ -6,8 +6,9 @@
 
 ---
 ✨ What Inspires Me
-
+<p>
 I’m passionate about using backend engineering to connect farmers with technology. I create APIs that monitor crop health, streamline payments, and link farmers to better markets, all aimed at empowering them to thrive in the digital age.
+</p>
 ---
 ## 🎓 Programs I’m Enrolled In
 
