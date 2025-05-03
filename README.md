@@ -21,11 +21,9 @@ These programs are project-based and foster collaboration with peers, mentors, a
 ## 💼 Projects I've Built
 
 ### 🌿 [BomaBest Tea Farm Management System](https://www.bomabest.co.ke)
-A comprehensive platform that helps tea farmers manage crop cycles, payments, and deliveries. Features include inventory tracking, farm records, and payment automation.
-
+A platform designed for farm management agencies to oversee farms, streamline outputs, inputs, workers, and returns, and generate detailed reports.
 ### 🏥 [CareTech Medical Web Application](https://www.caretechmedical.com)
-A hospital management platform that supports patient registration, appointment scheduling, and medical record handling for health institutions.
-
+A hospital profile platform with a blog section and an intuitive admin interface for managing content, and appointments.
 ### 🏡 Airbnb Clone – Backend API *(in progress)*
 A RESTful and GraphQL-powered API that handles user authentication, property management, bookings, payments, and reviews. Built with Django REST Framework.
 
