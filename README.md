@@ -5,12 +5,9 @@
 </p>
 
 ---
-
 ✨ What Inspires Me
-The future of food lies in smart, connected systems — and that’s where my passion begins. I’m driven by the power of backend engineering to reshape agriculture, especially for communities that have long been underserved. From crafting APIs that monitor crop health to integrating seamless payment systems for rural farmers, I believe backend solutions can bridge the gap between traditional farming and tomorrow’s technology.
 
-My mission is to empower farmers to maximize their yields, streamline day-to-day operations, and connect with broader, better markets — all through scalable, intelligent digital tools. Every farmer, no matter how remote, deserves access to technology that uplifts — and I’m committed to building those tools that turn that vision into reality.
-
+I’m passionate about using backend engineering to connect farmers with technology. I create APIs that monitor crop health, streamline payments, and link farmers to better markets, all aimed at empowering them to thrive in the digital age.
 ---
 ## 🎓 Programs I’m Enrolled In
 
