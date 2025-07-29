@@ -15,7 +15,7 @@ I’m passionate about using backend engineering to connect farmers with technol
 ## 🎓 Programs I’m Enrolled In
 
 - **ALX Backend Program**  
-- **ProDev Backend Program**
+
 
 These programs are project-based and foster collaboration with peers, mentors, and industry professionals. I joined software engineering to upscale my technical skills, connect meaningfully, and solve real-world problems — especially in agriculture and rural development.
 
@@ -23,7 +23,7 @@ These programs are project-based and foster collaboration with peers, mentors, a
 
 ## 💼 Projects I've Built
 ###  [Zimax systems ](https://www.zimax.co.ke)
-Business Profile co developed with Kipkirui Koech(https://github.com/kipkirui88)
+Business Profile co developed with [Kipkirui Koech](https://github.com/kipkirui88)
 ### 🌿 [BomaBest Tea Farm Management System](https://www.bomabest.co.ke)
 A platform designed for farm management agencies to oversee farms, streamline outputs, inputs, workers, and returns, and generate detailed reports.
 ### 🏥 [CareTech Medical Web Application](https://www.caretechmedical.com)
