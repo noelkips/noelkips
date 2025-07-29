@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Noel Langat</h1>
 
 <p align="center">
-  <b>Junior Backend Engineer | Agritech Enthusiast | Lifelong Learner</b>
+  <b>Senior Backend developer | Lifelong Learner | Co founder @Smartleap</b>
 </p>
 
 ---
