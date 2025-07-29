@@ -22,7 +22,8 @@ These programs are project-based and foster collaboration with peers, mentors, a
 ---
 
 ## 💼 Projects I've Built
-
+###  Zimax systems ](https://www.zimax.co.ke)
+Business Profile co developed with Kipkirui Koech(https://github.com/kipkirui88)
 ### 🌿 [BomaBest Tea Farm Management System](https://www.bomabest.co.ke)
 A platform designed for farm management agencies to oversee farms, streamline outputs, inputs, workers, and returns, and generate detailed reports.
 ### 🏥 [CareTech Medical Web Application](https://www.caretechmedical.com)
